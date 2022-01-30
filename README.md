@@ -4,7 +4,7 @@
 It's A Simple Andriod Based Hello World App
 
 ### App Walk-though
-<img src=""https://drive.google.com/file/d/1v27Qdrkm230nfHRPvN693xABwJrQrQd4/view?usp=sharing" width=200><br>
+<img src="https://i.imgur.com/fv95q7X.gifv" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {Aabid}!
