@@ -9,8 +9,8 @@ It's A Simple Andriod Based Hello World App
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {Aabid}!
-- [x ] 2. User see's custom background color.
-- [x ] 3. User can tap a button to change the text color of the label.
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
 
 ### Optional User Stories
 - [ ] 1. User can tap a button to change the color of the background view.  
